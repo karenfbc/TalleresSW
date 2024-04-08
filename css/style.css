@@ -1,0 +1,47 @@
+.custom-margin {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  body {
+    background-image: url('https://images.template.net/94712/pink-watercolor-background-rovp5.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .banner-img {
+    width: 100%;
+    max-height: 250px; 
+    object-fit: cover;
+  }
+  
+  h4 {
+    font-family: "Arial Black", Arial, sans-serif;
+    color: black;
+  }
+  
+  #ciudades {
+    text-align: center;
+  }
+  
+  #formulario form {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+  }
+  
+  #formulario {
+    text-align: center; 
+  }
+  
+  .img-fluid {
+    max-width: 100%; 
+    height: 500px; 
+    justify-content: center; 
+  }
+  
+  
